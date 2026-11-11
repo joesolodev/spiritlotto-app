@@ -1,0 +1,13 @@
+{
+  "name": "SpiritLotto",
+  "short_name": "SpiritLotto",
+  "description": "Truly random, unpopular lottery numbers for California games, with honest odds and a firm budget.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#EAF4EA",
+  "theme_color": "#EAF4EA",
+  "icons": [
+    { "src": "icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}

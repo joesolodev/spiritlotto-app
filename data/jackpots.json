@@ -1,0 +1,25 @@
+{
+ "updated": "2026-11-11T21:29:55+00:00",
+ "games": {
+  "Powerball": {
+   "drawDate": "2026-11-11",
+   "jackpot": 45000000.0,
+   "cash": 19400000.0
+  },
+  "Mega Millions": {
+   "drawDate": "2026-11-13",
+   "jackpot": 555000000.0,
+   "cash": 235200000.0
+  },
+  "SuperLotto Plus": {
+   "drawDate": "2026-11-11",
+   "jackpot": 13000000.0,
+   "cash": 5500000.0
+  },
+  "Fantasy 5": {
+   "drawDate": "2026-11-11",
+   "jackpot": 294000.0,
+   "cash": null
+  }
+ }
+}

@@ -1,0 +1,80 @@
+{
+ "source": "research/scripts/lotto_research.py on research/data (snapshot 2026-11-11)",
+ "taxSmall": 0.22,
+ "cashRatio": 0.43,
+ "games": {
+  "Powerball": {
+   "price": 2,
+   "combinations": 292201338,
+   "nonJackpotEvPerPlay": 0.3092216946206443,
+   "sales": {
+    "b": [
+     82.80259378106182,
+     -7.48628052032918,
+     0.20945759072771697
+    ],
+    "jackpotMin": 10000000.0,
+    "jackpotMax": 2040000000.0
+   },
+   "freePlayProb": 0.0,
+   "jackpotTax": 0.37,
+   "cashIsJackpot": false
+  },
+  "Mega Millions": {
+   "price": 5,
+   "combinations": 290472336,
+   "nonJackpotEvPerPlay": 1.2346706656679676,
+   "sales": {
+    "b": [
+     73.11360806764284,
+     -6.240371336152408,
+     0.1722619025090335
+    ],
+    "jackpotMin": 50000000.0,
+    "jackpotMax": 980000000.0
+   },
+   "freePlayProb": 0.0,
+   "jackpotTax": 0.37,
+   "cashIsJackpot": false
+  },
+  "SuperLotto Plus": {
+   "price": 1,
+   "combinations": 41416353,
+   "nonJackpotEvPerPlay": 0.17603634979095295,
+   "sales": {
+    "b": [
+     10.796831152482413,
+     0.22000072696889467,
+     0.00043583056416582333
+    ],
+    "jackpotMin": 7000000.0,
+    "jackpotMax": 64000000.0
+   },
+   "freePlayProb": 0.0,
+   "jackpotTax": 0.37,
+   "cashIsJackpot": false
+  },
+  "Fantasy 5": {
+   "price": 1,
+   "combinations": 575757,
+   "nonJackpotEvPerPlay": 0.2500816555183241,
+   "sales": {
+    "b": [
+     19.408132400644075,
+     -1.5945619471772148,
+     0.08989171531391826
+    ],
+    "jackpotMin": 56506.0,
+    "jackpotMax": 997134.0
+   },
+   "freePlayProb": 0.10393273551168287,
+   "jackpotTax": 0.24,
+   "cashIsJackpot": true
+  },
+  "Daily 3": {
+   "price": 1,
+   "combinations": 1000,
+   "fixedEvPerDollarPreTax": 0.5355386740331491
+  }
+ }
+}

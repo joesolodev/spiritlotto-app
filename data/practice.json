@@ -1,0 +1,604 @@
+{
+  "source": "SPIRITUAL_ABUNDANCE_PRACTICE.md",
+  "dailyCore": "about 3 minutes of sankalpa and breath on waking, and about 2 minutes of evening gratitude. Day-specific practices are added on top.",
+  "weeks": [
+    {
+      "n": 1,
+      "title": "Clearing and Awareness",
+      "theme": "see clearly what you believe about wealth, scarcity, deservingness and receiving."
+    },
+    {
+      "n": 2,
+      "title": "Embodiment and Visualization",
+      "theme": "become emotionally familiar with security and abundance. The daily core continues."
+    },
+    {
+      "n": 3,
+      "title": "Spiritual Alignment and Surrender",
+      "theme": "integrate sankalpa, meditation, sound, gratitude, generosity and nonattachment. Alternate the visualization every other day."
+    },
+    {
+      "n": 4,
+      "title": "Integration and Inspired Action",
+      "theme": "turn the inner practice into real financial confidence, intentional behavior and openness to opportunity. Alternate practices freely."
+    }
+  ],
+  "days": [
+    {
+      "n": 1,
+      "week": 1,
+      "title": "Arrival",
+      "intention": "I begin with honesty.",
+      "practice": {
+        "minutes": 10,
+        "text": "Sit with the breath. On each exhale, silently say \"here.\" End by choosing a draft sankalpa (Part 4.3).",
+        "meditation": null
+      },
+      "journal": "Why am I really doing this practice?",
+      "embodiment": "Stand barefoot for 2 minutes and feel your weight held by the ground.",
+      "evening": "What did I notice about money today?",
+      "exercise": null
+    },
+    {
+      "n": 2,
+      "week": 1,
+      "title": "Money autobiography",
+      "intention": "My story is not my destiny.",
+      "practice": {
+        "minutes": 20,
+        "text": "Write the money autobiography (Part 2.2, exercise 1).",
+        "meditation": null
+      },
+      "journal": "Underline every money \"rule.\" List them.",
+      "embodiment": "Shake out the whole body for 1 minute, to discharge.",
+      "evening": "Whose voice did today's rules sound like?",
+      "exercise": "money-autobiography"
+    },
+    {
+      "n": 3,
+      "week": 1,
+      "title": "The six polarities",
+      "intention": "Both sides can be true.",
+      "practice": {
+        "minutes": 15,
+        "text": "Complete the six-polarity inventory (Part 2.1), then 5 minutes of breath.",
+        "meditation": null
+      },
+      "journal": "Which polarity carries the most charge for me, and why?",
+      "embodiment": "Turn your palms up for freedom, then down for responsibility. Feel the difference. Find a middle position.",
+      "evening": "One gratitude for something you already have.",
+      "exercise": "polarities"
+    },
+    {
+      "n": 4,
+      "week": 1,
+      "title": "Scarcity in the body",
+      "intention": "I feel where fear lives.",
+      "practice": {
+        "minutes": 15,
+        "text": "The body scan of receiving (Part 2.2, exercise 4).",
+        "meditation": null
+      },
+      "journal": "At what dollar amount did my body start to resist? What came up?",
+      "embodiment": "Three cyclic sighs whenever you think about money today.",
+      "evening": "Where did I feel open today?",
+      "exercise": "body-scan"
+    },
+    {
+      "n": 5,
+      "week": 1,
+      "title": "Deservingness",
+      "intention": "My worth is not a number.",
+      "practice": {
+        "minutes": 15,
+        "text": "Belief audit (Part 2.2, exercise 5) on \"I don't deserve this\" or your strongest underlined belief.",
+        "meditation": null
+      },
+      "journal": "Write three ways the opposite belief is equally true.",
+      "embodiment": "Place a hand on your heart and say your name with kindness three times.",
+      "evening": "What did I receive today without earning it? (Sunlight, kindness, a meal.)",
+      "exercise": "belief-audit"
+    },
+    {
+      "n": 6,
+      "week": 1,
+      "title": "Receiving",
+      "intention": "I let myself receive.",
+      "practice": {
+        "minutes": 15,
+        "text": "The inheritance letter (Part 2.2, exercise 2), both the letter and your reply.",
+        "meditation": null
+      },
+      "journal": "What would I have to forgive myself or others for, in order to receive fully?",
+      "embodiment": "Accept every compliment today with only \"thank you.\"",
+      "evening": "How did it feel to receive without deflecting?",
+      "exercise": "inheritance-letter"
+    },
+    {
+      "n": 7,
+      "week": 1,
+      "title": "Integration and the fixed budget",
+      "intention": "Clarity is a form of wealth.",
+      "practice": {
+        "minutes": 20,
+        "text": "Reread the week's journal. Finalize your sankalpa. Then do the practical step: set your annual lottery budget and write it down (Part 10).",
+        "meditation": null
+      },
+      "journal": "The three beliefs I'm ready to put down are…",
+      "embodiment": "A slow walk, noticing everything that is free: air, sky, birdsong.",
+      "evening": "This week I learned…",
+      "exercise": null
+    },
+    {
+      "n": 8,
+      "week": 2,
+      "title": "The scene",
+      "intention": "I know how it feels.",
+      "practice": {
+        "minutes": 15,
+        "text": "Choose and refine your scene (Part 3.1). Write it in detail. Then do one round of \"The Quiet Morning\" (Part 3.2).",
+        "meditation": "quiet-morning"
+      },
+      "journal": "Which detail made it feel most real?",
+      "embodiment": "Throughout the day, notice the physical feeling of security in moments of ordinary safety.",
+      "evening": "When did I feel secure today?",
+      "exercise": null
+    },
+    {
+      "n": 9,
+      "week": 2,
+      "title": "The senses",
+      "intention": "The feeling is here now.",
+      "practice": {
+        "minutes": 15,
+        "text": "The visualization, emphasizing smell, touch and sound.",
+        "meditation": "quiet-morning"
+      },
+      "journal": "What does security smell, sound and feel like?",
+      "embodiment": "Eat one meal slowly, as someone with nothing to rush toward.",
+      "evening": "One moment of unhurried ease.",
+      "exercise": null
+    },
+    {
+      "n": 10,
+      "week": 2,
+      "title": "The Murphy threshold",
+      "intention": "I rest in what is done.",
+      "practice": {
+        "minutes": 15,
+        "text": "The visualization, plus at bedtime Murphy's method: as you drift off, repeat \"thank you… it is done\" until you sleep.",
+        "meditation": "quiet-morning"
+      },
+      "journal": "(next morning) What was my mood on waking?",
+      "embodiment": "Sit like someone who is secure: spine long, shoulders open, belly soft.",
+      "evening": "Where did I tense up today, and could I release it?",
+      "exercise": null
+    },
+    {
+      "n": 11,
+      "week": 2,
+      "title": "The steward",
+      "intention": "I act as the steward now.",
+      "practice": {
+        "minutes": 15,
+        "text": "The visualization, then 5 minutes looking calmly at your real finances (Part 2.3).",
+        "meditation": "quiet-morning"
+      },
+      "journal": "One financial decision my secure self would make this week is…",
+      "embodiment": "Practice a 24-hour pause before any non-routine purchase.",
+      "evening": "Did I act from scarcity or from steadiness today?",
+      "exercise": "steward"
+    },
+    {
+      "n": 12,
+      "week": 2,
+      "title": "Gratitude without desperation",
+      "intention": "I am already grateful.",
+      "practice": {
+        "minutes": 15,
+        "text": "The visualization, with an extended gratitude section (5 minutes).",
+        "meditation": "quiet-morning"
+      },
+      "journal": "Write a thank-you letter to life, dated one year from now.",
+      "embodiment": "Say \"thank you\" out loud for small things today: water, warmth, doors held.",
+      "evening": "List 10 gratitudes.",
+      "exercise": null
+    },
+    {
+      "n": 13,
+      "week": 2,
+      "title": "Revision",
+      "intention": "The past releases me.",
+      "practice": {
+        "minutes": 15,
+        "text": "Neville's revision: replay a painful money memory, re-imagine it ending well, and feel the new ending.",
+        "meditation": null
+      },
+      "journal": "What changed when I revised it?",
+      "embodiment": "Exhale fully three times, as if emptying an old room.",
+      "evening": "Revise one small moment from today before sleep.",
+      "exercise": null
+    },
+    {
+      "n": 14,
+      "week": 2,
+      "title": "Integration",
+      "intention": "Abundance is a way of feeling.",
+      "practice": {
+        "minutes": 20,
+        "text": "A full visualization, plus a first run of yoga nidra with your sankalpa (Part 4.4).",
+        "meditation": "sankalpa-ritual"
+      },
+      "journal": "How does my body feel different from Day 1?",
+      "embodiment": "One spontaneous act of generosity.",
+      "evening": "This week I learned…",
+      "exercise": null
+    },
+    {
+      "n": 15,
+      "week": 3,
+      "title": "Sound",
+      "intention": "I listen deeply.",
+      "practice": {
+        "minutes": 20,
+        "text": "\"The Open Vessel\" sound meditation (Part 5.4).",
+        "meditation": "open-vessel"
+      },
+      "journal": "What happened in the silence after the sound?",
+      "embodiment": "Hum for 1 minute whenever you feel scattered.",
+      "evening": "One sound you loved today.",
+      "exercise": null
+    },
+    {
+      "n": 16,
+      "week": 3,
+      "title": "Mantra",
+      "intention": "I honor what I chant.",
+      "practice": {
+        "minutes": 15,
+        "text": "Learn the origin and correct pronunciation of your chosen mantra. 108 repetitions with a mala, or 10 minutes.",
+        "meditation": null
+      },
+      "journal": "What do I feel the mantra is really asking of me?",
+      "embodiment": "Repeat the mantra silently while walking today.",
+      "evening": "Did the mantra bring steadiness or wanting?",
+      "exercise": null
+    },
+    {
+      "n": 17,
+      "week": 3,
+      "title": "Yoga nidra and sankalpa",
+      "intention": "I plant my resolve in stillness.",
+      "practice": {
+        "minutes": 20,
+        "text": "The full sankalpa ritual (Part 4.4).",
+        "meditation": "sankalpa-ritual"
+      },
+      "journal": "What images came during the pairs of opposites?",
+      "embodiment": "Rest for 5 minutes in the afternoon, doing nothing, as a gift.",
+      "evening": "Say your sankalpa once before sleep.",
+      "exercise": null
+    },
+    {
+      "n": 18,
+      "week": 3,
+      "title": "Generosity (dāna)",
+      "intention": "What flows through me, grows.",
+      "practice": {
+        "minutes": 15,
+        "text": "A loving-kindness meditation: wish wellbeing to yourself, a loved one, a neutral person, a difficult person, and all beings.",
+        "meditation": null
+      },
+      "journal": "If abundance flowed through me, where would I send it first?",
+      "embodiment": "Give anonymously today, any amount or any act.",
+      "evening": "How did giving feel compared with getting?",
+      "exercise": null
+    },
+    {
+      "n": 19,
+      "week": 3,
+      "title": "Hold and Open",
+      "intention": "I want, and I release.",
+      "practice": {
+        "minutes": 15,
+        "text": "Practice the Hold and Open method (Part 6.2) three times, deliberately calling up the jackpot desire.",
+        "meditation": null
+      },
+      "journal": "What is the true root of my desire for this money?",
+      "embodiment": "Turn your palms up every time desire or worry arises today.",
+      "evening": "When was I grasping? When was I open?",
+      "exercise": null
+    },
+    {
+      "n": 20,
+      "week": 3,
+      "title": "The eight worldly winds",
+      "intention": "I am steady in gain and loss.",
+      "practice": {
+        "minutes": 15,
+        "text": "Equanimity meditation: imagine winning, feel it and let it pass; imagine losing, feel it and let it pass. Rest in what doesn't change.",
+        "meditation": null
+      },
+      "journal": "Who am I if I win? Who am I if I don't? What stays the same?",
+      "embodiment": "Balance on one foot for 1 minute per side. Notice the constant small corrections that steadiness requires.",
+      "evening": "Name one gain and one loss from today, each with equal calm.",
+      "exercise": null
+    },
+    {
+      "n": 21,
+      "week": 3,
+      "title": "Symbols",
+      "intention": "I listen to meaning without grasping.",
+      "practice": {
+        "minutes": 15,
+        "text": "Begin the Symbol Journal (Part 7.3). Review any coincidences from the past three weeks.",
+        "meditation": null
+      },
+      "journal": "What themes are my symbols pointing toward in my life?",
+      "embodiment": "The sound meditation, short form (10 minutes).",
+      "evening": "Write the rule: \"Messages for my life, not predictions for the lottery.\"",
+      "exercise": null
+    },
+    {
+      "n": 22,
+      "week": 4,
+      "title": "The real-world steward",
+      "intention": "Inspired action, from peace.",
+      "practice": {
+        "minutes": 15,
+        "text": "The visualization, then list three actual financial steps within your control (an emergency fund, paying down debt, a savings rate).",
+        "meditation": "quiet-morning"
+      },
+      "journal": "What is one step I've been avoiding, and why?",
+      "embodiment": "Take the smallest version of that step today.",
+      "evening": "How did acting feel compared with only imagining?",
+      "exercise": null
+    },
+    {
+      "n": 23,
+      "week": 4,
+      "title": "Opportunity",
+      "intention": "I'm open to abundance in every form.",
+      "practice": {
+        "minutes": 15,
+        "text": "Use mental contrasting, the WOOP method (Oettingen): Wish, Outcome, Obstacle, Plan. Apply it to a creative or career goal, not the lottery.",
+        "meditation": null
+      },
+      "journal": "Where could abundance actually come from in my life besides luck?",
+      "embodiment": "Reach out to one person you'd like to collaborate with or learn from.",
+      "evening": "What opportunity did I notice today?",
+      "exercise": null
+    },
+    {
+      "n": 24,
+      "week": 4,
+      "title": "The jackpot plan",
+      "intention": "I'm prepared for anything.",
+      "practice": {
+        "minutes": 20,
+        "text": "Write the \"If I Win\" plan (Part 10.2). This is sacred practical work: preparing the ditches, in Shinn's image.",
+        "meditation": null
+      },
+      "journal": "Which part of the plan made me most emotional?",
+      "embodiment": "Sit with the plan in your lap and breathe as the steward.",
+      "evening": "Am I ready to be responsible for great resources?",
+      "exercise": "if-i-win"
+    },
+    {
+      "n": 25,
+      "week": 4,
+      "title": "Values and the abundance statement",
+      "intention": "My wealth serves my values.",
+      "practice": {
+        "minutes": 15,
+        "text": "Draft your personal abundance statement (Part 10.3).",
+        "meditation": null
+      },
+      "journal": "What would I do with my life if money were no object? What part of that can I do now?",
+      "embodiment": "Do 15 minutes of that thing today.",
+      "evening": "Read the abundance statement aloud once.",
+      "exercise": "abundance-statement"
+    },
+    {
+      "n": 26,
+      "week": 4,
+      "title": "Rehearsing the drawing-day ritual",
+      "intention": "I rehearse the sacred and the ordinary.",
+      "practice": {
+        "minutes": 15,
+        "text": "Rehearse the Drawing-Day Ritual (Part 9) without buying a ticket.",
+        "meditation": null
+      },
+      "journal": "What does surrender feel like in my body?",
+      "embodiment": "The symbolic act of surrender (Part 9, step 6), done as practice.",
+      "evening": "Could I live my evening without checking anything?",
+      "exercise": null
+    },
+    {
+      "n": 27,
+      "week": 4,
+      "title": "Abundance now",
+      "intention": "I am rich in what matters.",
+      "practice": {
+        "minutes": 20,
+        "text": "\"The Open Vessel\" sound meditation, plus an inventory of current abundances: relationships, skills, health, beauty, time.",
+        "meditation": "open-vessel"
+      },
+      "journal": "The ways I'm already wealthy are… (aim for 30 items)",
+      "embodiment": "Spend one hour today as if you were already free. Choose it well.",
+      "evening": "What did freedom actually feel like?",
+      "exercise": null
+    },
+    {
+      "n": 28,
+      "week": 4,
+      "title": "Generosity in action",
+      "intention": "I give from overflow.",
+      "practice": {
+        "minutes": 15,
+        "text": "Loving-kindness meditation, then choose one cause you'd fund with a jackpot and give to it now at your current scale.",
+        "meditation": null
+      },
+      "journal": "What does stewardship mean to me?",
+      "embodiment": "One generous act involving your time.",
+      "evening": "How did today's giving change the feeling of abundance?",
+      "exercise": null
+    },
+    {
+      "n": 29,
+      "week": 4,
+      "title": "Review",
+      "intention": "I honor how far I've come.",
+      "practice": {
+        "minutes": 20,
+        "text": "Reread all 28 days of journal entries. Compare them with the Day 1–3 inventories.",
+        "meditation": null
+      },
+      "journal": "What has changed in my relationship with money, desire and peace?",
+      "embodiment": "Write your sankalpa by hand and place it where you'll see it.",
+      "evening": "What will I continue after these 30 days?",
+      "exercise": null
+    },
+    {
+      "n": 30,
+      "week": 4,
+      "title": "Completion",
+      "intention": "I am already whole.",
+      "practice": {
+        "minutes": 20,
+        "text": "Do the closing meditation (Part 12.6), then make a vow of continuation: choose a sustainable ongoing practice (for example, 10 minutes a day plus the ritual on eligible drawing days).",
+        "meditation": "closing"
+      },
+      "journal": "Write a letter to yourself to open in one year.",
+      "embodiment": "A celebratory act: dance, walk, cook, or share a meal.",
+      "evening": "Thank you. It is done, and it is beginning.",
+      "exercise": null
+    }
+  ],
+  "afterDay30": {
+    "text": "Do the closing meditation (Part 12.6), then make a vow of continuation: choose a sustainable ongoing practice (for example, 10 minutes a day plus the ritual on eligible drawing days).",
+    "options": [
+      "10 minutes a day plus the ritual on eligible drawing days"
+    ]
+  },
+  "exercises": [
+    {
+      "id": "polarities",
+      "title": "The six polarities inventory",
+      "source": "Part 2.1",
+      "intro": "For each pair, write your honest, fast, first reaction. Then rate how strongly you feel each side, from 0 to 10.\n\nBoth sides are usually true at once. Big wealth does bring both freedom and responsibility. The exercise is complete when you can hold both sides without flinching.",
+      "items": [
+        "Freedom ↔ Responsibility and burden",
+        "Security ↔ Instability and being a target",
+        "Generosity ↔ Selfishness and greed",
+        "Worthiness ↔ Guilt (\"Who am I to have this?\")",
+        "Expansion ↔ Fear (change, loss of identity)",
+        "Spiritual fulfillment ↔ Material attachment"
+      ]
+    },
+    {
+      "id": "money-autobiography",
+      "title": "Money autobiography (45 minutes, once)",
+      "source": "Part 2.2, exercise 1",
+      "intro": "Write about the first time you understood money, how money was talked about in your childhood home, the largest sum you ever handled, a time money brought shame, and a time it brought joy. Underline any sentence that sounds like a rule (\"Rich people are…\", \"We are the kind of people who…\").",
+      "items": []
+    },
+    {
+      "id": "inheritance-letter",
+      "title": "The inheritance letter",
+      "source": "Part 2.2, exercise 2",
+      "intro": "Write a letter from a wise ancestor or mentor who leaves you $50 million, explaining why they trust you with it. Then write your honest reply, including your fears.",
+      "items": []
+    },
+    {
+      "id": "sentence-completion",
+      "title": "The ten-sentence completion",
+      "source": "Part 2.2, exercise 3",
+      "intro": "Complete each sentence five times, quickly, without editing:",
+      "items": [
+        "If I had more money than I could ever spend, I would finally…",
+        "…but I'm afraid…",
+        "The people I love would…",
+        "I would no longer have to…",
+        "The hardest part would be…"
+      ]
+    },
+    {
+      "id": "body-scan",
+      "title": "Body scan of receiving",
+      "source": "Part 2.2, exercise 4",
+      "intro": "Imagine a stranger handing you a check for $1,000, then $100,000, then $10 million. At each amount, notice where your body tightens, opens, warms or recoils. Breathe into the place that tightens until it softens a little. Don't force it.",
+      "items": []
+    },
+    {
+      "id": "belief-audit",
+      "title": "Belief audit (Byron Katie style)",
+      "source": "Part 2.2, exercise 5",
+      "intro": "Take one underlined belief and ask:",
+      "items": [
+        "Is it true?",
+        "Can I absolutely know it's true?",
+        "How do I feel and act when I believe it?",
+        "Who would I be without it?",
+        "Then write three ways the opposite could be equally true."
+      ]
+    },
+    {
+      "id": "steward",
+      "title": "The identity practice: \"the steward\"",
+      "source": "Part 2.3",
+      "intro": "Instead of the identity of \"lottery winner,\" cultivate the identity of the steward: someone who is financially confident, emotionally steady, generous, and able to make careful decisions with large resources. You can become this person now, at whatever scale of money you have.\n\nSmall, repeated identity-consistent actions are how habits and self-concepts actually change (behavioral research on habit formation and self-perception). This is where the transformation in this practice comes from.",
+      "items": [
+        "Financial confidence: Look at your actual balances calmly once a day. Name one fact without judging it.",
+        "Emotional steadiness: Before any money decision, take three slow breaths with a long exhale.",
+        "Generosity: Give something every day: money, time, attention, or praise.",
+        "Responsible decisions: Practice a 24-hour pause before any non-routine purchase.",
+        "Sovereignty: Say one clear \"no\" a day to something that isn't yours to carry."
+      ]
+    }
+  ],
+  "ifIWin": [
+    {
+      "area": "Security for me and loved ones",
+      "example": "e.g., homes paid off, lifelong financial security for ___",
+      "firstStep": "Hire a fee-only fiduciary advisor, a tax professional and an estate attorney before claiming"
+    },
+    {
+      "area": "Creative projects",
+      "example": "e.g., a studio, a film, funding artists",
+      "firstStep": "___"
+    },
+    {
+      "area": "Community",
+      "example": "e.g., local scholarships, mutual-aid funds",
+      "firstStep": "___"
+    },
+    {
+      "area": "Autonomy and privacy",
+      "example": "Keep my life my own",
+      "firstStep": "California makes lottery winners' names public, so plan for privacy and security (check the current rules)"
+    },
+    {
+      "area": "Environmental and humanitarian causes",
+      "example": "e.g., land conservation, clean water",
+      "firstStep": "Research effectiveness before giving at scale"
+    },
+    {
+      "area": "A values-aligned life",
+      "example": "Daily life would look like ___",
+      "firstStep": "Wait 6–12 months before any major life change"
+    }
+  ],
+  "abundanceTemplate": "I am a steward of abundance. Whatever comes to me, money, time, talent or love, I receive with gratitude, hold with wisdom, and share with generosity. I use resources to create security for those I love, freedom for my creative life, and good in my community and the world. I am not defined by what I have, but by how I live and what I give. I live this now, at every scale.",
+  "abundanceNote": "Rewrite it in your own words. It should be specific to your values and short enough to read in one breath.",
+  "symbolJournal": {
+    "intro": "Keep a separate notebook. For each experience, write down:\n\nOnce a week, reread the entries and ask: \"What themes keep returning? What is my deeper self asking for?\" Most people find that symbols point toward relationships, creativity, rest and courage, the real currencies of abundance.",
+    "fields": [
+      "What happened, in plain facts (date, time, place).",
+      "What I was feeling or thinking just before.",
+      "What it means to me, the first association that comes.",
+      "What it invites, for example \"rest,\" \"reach out to my sister,\" \"be braver about my art.\""
+    ],
+    "rule": "\"This is a message for my life, not a prediction for the lottery.\" Write it every time."
+  }
+}
